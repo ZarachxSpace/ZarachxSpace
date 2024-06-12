@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZarachxSpace
+- 👋 Hi, I’m Zarach
 - 👀 I’m interested in Innovation
-- 🌱 I’m currently learning Algorithmic Trading
+- 🌱 I'm dipping my toes in AI
 - 📫 How to reach me https://twitter.com/Zarachnite
 
 <!---
